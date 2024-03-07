@@ -1,7 +1,7 @@
 # Arya-Data-Scientist-Assignment
 # General Appraoch and Thought Process
 
-## EDA_PP_Train_Val,ipynb
+## EDA_PP_Train_Val.ipynb
 
 ### EDA, Feature Engineering, Preprocessing
 
